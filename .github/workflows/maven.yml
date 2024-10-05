@@ -43,7 +43,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: spring-boot-github-cicd/spring-boot-github-cicd:latest
+          tags: narendervenna/spring-boot-github-cicd:latest
 
 
 
